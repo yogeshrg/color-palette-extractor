@@ -261,3 +261,4 @@
 ## 2020-05-18 10:47:03 - feat(ui): create ui handler
 ## 2020-05-27 14:44:25 - feat(security): implement security module
 ## 2020-06-11 23:00:38 - feat(data): add data support
+## 2020-06-13 10:08:16 - feat(log): implement log module (7/20)
