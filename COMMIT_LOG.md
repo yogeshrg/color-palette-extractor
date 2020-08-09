@@ -8,3 +8,4 @@
 ## 2020-05-27 14:44:25 - feat(security): implement security module
 ## 2020-06-11 23:00:38 - feat(data): add data support
 ## 2020-06-13 10:08:16 - feat(log): implement log module (7/20)
+## 2020-08-09 15:30:42 - feat(db): add db support (4/20)
