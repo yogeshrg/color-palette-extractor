@@ -10,3 +10,4 @@
 ## 2020-06-13 10:08:16 - feat(log): implement log module (7/20)
 ## 2020-08-09 15:30:42 - feat(db): add db support (4/20)
 ## 2020-08-10 19:11:09 - feat(metric): add metric support
+## 2020-08-15 09:53:27 - feat(core): implement core module (12/20)
