@@ -139,3 +139,4 @@
 ## 2020-08-10 19:11:09 - feat(metric): add metric support
 ## 2020-08-15 09:53:27 - feat(core): implement core module (12/20)
 ## 2020-08-21 20:56:17 - feat(ui): add ui support
+## 2020-08-22 09:10:33 - feat(db): implement db module (12/20)
