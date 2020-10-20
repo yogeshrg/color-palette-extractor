@@ -141,3 +141,4 @@
 ## 2020-08-21 20:56:17 - feat(ui): add ui support
 ## 2020-08-22 09:10:33 - feat(db): implement db module (12/20)
 ## 2020-09-12 20:04:20 - feat(build): implement build module (2/20)
+## 2020-10-20 10:59:47 - feat(security): create security handler
