@@ -143,3 +143,4 @@
 ## 2020-09-12 20:04:20 - feat(build): implement build module (2/20)
 ## 2020-10-20 10:59:47 - feat(security): create security handler
 ## 2020-11-15 18:33:59 - feat(core): implement core module (17/20)
+## 2020-12-09 22:18:33 - feat(alert): add alert support
