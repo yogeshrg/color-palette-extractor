@@ -145,3 +145,4 @@
 ## 2020-11-15 18:33:59 - feat(core): implement core module (17/20)
 ## 2020-12-09 22:18:33 - feat(alert): add alert support
 ## 2020-12-19 22:50:23 - feat(config): create config handler (20/20)
+## 2020-12-20 14:39:04 - feat(ci): add ci support (4/20)
