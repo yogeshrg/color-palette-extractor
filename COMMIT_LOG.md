@@ -275,3 +275,4 @@
 ## 2020-12-20 14:39:04 - feat(ci): add ci support (4/20)
 ## 2021-01-16 23:53:07 - feat(ui): add ui endpoint (20/20)
 ## 2021-01-31 13:29:04 - feat(log): add log support (7/20)
+## 2021-02-21 12:00:16 - feat(auth): create auth handler (3/20)
