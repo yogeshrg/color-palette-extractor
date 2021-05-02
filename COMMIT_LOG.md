@@ -25,3 +25,4 @@
 ## 2021-02-21 13:50:10 - feat(api): add api endpoint (15/20)
 ## 2021-03-20 18:23:48 - feat(log): create log handler (2/20)
 ## 2021-04-13 09:59:12 - feat(metric): create metric handler
+## 2021-05-02 13:21:09 - feat(monitor): add monitor endpoint (14/20)
