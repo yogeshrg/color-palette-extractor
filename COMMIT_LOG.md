@@ -283,3 +283,4 @@
 ## 2021-05-15 20:00:18 - feat(core): implement core feature (14/20)
 ## 2021-06-12 20:30:41 - feat(infra): create infra handler (4/20)
 ## 2021-06-24 14:49:23 - feat(model): create model handler
+## 2021-07-03 11:41:10 - feat(config): add config support (20/20)
