@@ -157,3 +157,4 @@
 ## 2021-06-12 20:30:41 - feat(infra): create infra handler (4/20)
 ## 2021-06-24 14:49:23 - feat(model): create model handler
 ## 2021-07-03 11:41:10 - feat(config): add config support (20/20)
+## 2021-07-29 17:13:17 - feat(ui): implement ui module
