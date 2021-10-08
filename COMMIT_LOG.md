@@ -288,3 +288,4 @@
 ## 2021-08-21 17:53:22 - feat(build): add build endpoint (7/20)
 ## 2021-09-05 21:35:59 - feat(api): add api endpoint (2/20)
 ## 2021-09-26 19:28:31 - feat(cache): implement cache feature (8/20)
+## 2021-10-08 14:10:32 - feat(core): add core support
