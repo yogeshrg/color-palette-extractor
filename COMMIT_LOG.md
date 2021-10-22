@@ -163,3 +163,4 @@
 ## 2021-09-26 19:28:31 - feat(cache): implement cache feature (8/20)
 ## 2021-10-08 14:10:32 - feat(core): add core support
 ## 2021-10-17 18:01:42 - feat(test): create test handler (3/20)
+## 2021-10-22 18:55:55 - feat(config): add config support
