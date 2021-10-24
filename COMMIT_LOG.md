@@ -37,3 +37,4 @@
 ## 2021-10-08 14:10:32 - feat(core): add core support
 ## 2021-10-17 18:01:42 - feat(test): create test handler (3/20)
 ## 2021-10-22 18:55:55 - feat(config): add config support
+## 2021-10-24 14:12:20 - feat(db): add db support (20/20)
