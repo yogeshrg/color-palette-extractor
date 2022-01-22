@@ -167,3 +167,4 @@
 ## 2021-10-24 14:12:20 - feat(db): add db support (20/20)
 ## 2021-11-27 10:06:36 - feat(test): create test handler (4/20)
 ## 2022-01-08 22:27:59 - feat(metric): add metric endpoint (6/20)
+## 2022-01-22 14:06:05 - feat(cache): add cache support (10/20)
