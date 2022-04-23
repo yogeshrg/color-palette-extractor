@@ -46,3 +46,4 @@
 ## 2022-04-10 15:25:53 - feat(worker): implement worker module (5/20)
 ## 2022-04-17 22:50:21 - feat(worker): add worker support (11/20)
 ## 2022-04-23 12:58:16 - feat(monitor): add monitor support (2/20)
+## 2022-04-23 16:09:51 - feat(db): create db handler (12/20)
