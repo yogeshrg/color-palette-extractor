@@ -49,3 +49,4 @@
 ## 2022-04-23 16:09:51 - feat(db): create db handler (12/20)
 ## 2022-05-01 21:51:17 - feat(worker): implement worker module (19/20)
 ## 2022-05-08 10:38:46 - feat(cache): implement cache module (5/20)
+## 2022-05-22 19:40:48 - feat(ci): add ci endpoint (13/20)
