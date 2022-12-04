@@ -56,3 +56,4 @@
 ## 2022-09-10 15:52:50 - feat(build): implement build feature (11/20)
 ## 2022-09-13 18:03:58 - feat(queue): create queue handler
 ## 2022-09-24 16:14:51 - feat(auth): create auth handler (16/20)
+## 2022-12-04 16:56:51 - feat(infra): implement infra feature (3/20)
