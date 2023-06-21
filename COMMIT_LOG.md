@@ -62,3 +62,4 @@
 ## 2023-03-19 19:46:30 - feat(cache): create cache handler (8/20)
 ## 2023-05-21 18:32:12 - feat(api): implement api feature (13/20)
 ## 2023-05-21 22:03:59 - feat(build): implement build feature (20/20)
+## 2023-06-21 16:42:46 - feat(infra): add infra support
