@@ -320,3 +320,4 @@
 ## 2023-09-03 21:27:25 - feat(cache): implement cache module (3/20)
 ## 2023-09-16 12:44:58 - feat(data): add data endpoint (4/20)
 ## 2023-10-07 18:58:28 - feat(build): add build support (3/20)
+## 2023-10-07 22:29:07 - feat(core): create core handler (7/20)
