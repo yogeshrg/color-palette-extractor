@@ -334,3 +334,4 @@
 ## 2024-03-09 16:27:18 - feat(cache): implement cache feature (12/20)
 ## 2024-03-16 20:58:05 - feat(alert): implement alert module (7/20)
 ## 2024-03-17 19:40:30 - feat(config): implement config module (2/20)
+## 2024-03-23 10:33:58 - feat(monitor): add monitor support (12/20)
