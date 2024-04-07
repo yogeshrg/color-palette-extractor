@@ -82,3 +82,4 @@
 ## 2024-03-17 19:40:30 - feat(config): implement config module (2/20)
 ## 2024-03-23 10:33:58 - feat(monitor): add monitor support (12/20)
 ## 2024-03-30 11:13:19 - feat(monitor): implement monitor module (4/20)
+## 2024-04-07 20:53:20 - feat(monitor): add monitor endpoint (7/20)
