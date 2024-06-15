@@ -338,3 +338,4 @@
 ## 2024-03-30 11:13:19 - feat(monitor): implement monitor module (4/20)
 ## 2024-04-07 20:53:20 - feat(monitor): add monitor endpoint (7/20)
 ## 2024-05-25 23:40:41 - feat(model): implement model feature (12/20)
+## 2024-06-15 10:18:46 - feat(worker): add worker support (3/20)
