@@ -340,3 +340,4 @@
 ## 2024-05-25 23:40:41 - feat(model): implement model feature (12/20)
 ## 2024-06-15 10:18:46 - feat(worker): add worker support (3/20)
 ## 2024-06-15 10:53:21 - feat(docs): add docs support (8/20)
+## 2024-07-27 11:01:02 - feat(metric): add metric endpoint (12/20)
