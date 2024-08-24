@@ -88,3 +88,4 @@
 ## 2024-06-15 10:53:21 - feat(docs): add docs support (8/20)
 ## 2024-07-27 11:01:02 - feat(metric): add metric endpoint (12/20)
 ## 2024-07-27 21:59:17 - feat(core): add core endpoint (11/20)
+## 2024-08-24 20:53:28 - feat(auth): implement auth module (6/20)
