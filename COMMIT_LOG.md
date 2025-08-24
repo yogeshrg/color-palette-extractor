@@ -237,3 +237,4 @@
 ## 2025-07-05 22:03:34 - feat(metric): add metric endpoint (4/20)
 ## 2025-07-06 10:35:08 - feat(core): add core endpoint (1/20)
 ## 2025-07-19 20:55:29 - feat(db): add db support (8/20)
+## 2025-08-24 15:53:27 - feat(api): create api handler (14/20)
