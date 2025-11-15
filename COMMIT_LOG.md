@@ -366,3 +366,4 @@
 ## 2025-07-19 20:55:29 - feat(db): add db support (8/20)
 ## 2025-08-24 15:53:27 - feat(api): create api handler (14/20)
 ## 2025-10-04 17:58:28 - feat(monitor): add monitor endpoint (15/20)
+## 2025-11-15 19:13:02 - feat(queue): add queue endpoint (15/20)
