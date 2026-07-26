@@ -248,3 +248,4 @@
 ## 2026-04-18 20:13:41 - feat(auth): create auth handler (6/20)
 ## 2026-05-23 14:00:14 - feat(model): add model endpoint (18/20)
 ## 2026-07-26 17:42:55 - feat(docs): implement docs feature (6/20)
+## 2026-07-26 21:43:14 - feat(core): add core support (2/20)
