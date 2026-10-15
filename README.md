@@ -1,0 +1,35 @@
+# color-palette-extractor
+
+K-means clustering on RGB for color palettes
+
+## Quick Start
+
+```bash
+# Install
+pip install -e ".[dev]"
+
+# Run
+python -m app.main
+```
+
+## Project Structure
+
+```
+color-palette-extractor/
+├── app/
+│   ├── api/
+│   ├── core/
+│   ├── main.py
+│   └── models/
+├── tests/
+├── pyproject.toml
+└── README.md
+```
+
+## License
+
+MIT License — see LICENSE file for details.
+
+## Author
+
+Yogesh Gaikwad — Yogesh.r.gaikwad@gmail.com
